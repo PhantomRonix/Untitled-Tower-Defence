@@ -1,5 +1,7 @@
-# Untitled-Tower-Defence
+# Untitled-Tower-Defence-Game
  
 The final assessment of a now-concluded module, scoring a total of 80%.
 
-I remember being marked down because the assessor said that the mouse didn't directly kill enemies.
+Imports data from a text file to read both map data, and leaderboard data.
+
+I remember my assessor made a note about how clicking didn't directly kill enemies, but ultimately dismissed it because it was more vast than other projects.
